@@ -1,0 +1,15 @@
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.config
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.pdb
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.AssemblyReference.cache
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.SuggestedBindingRedirects.cache
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.CaixaEletronico.resources
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.Properties.Resources.resources
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.GenerateResource.cache
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.csproj.CoreCompileInputs.cache
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.pdb
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.exe.manifest
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\bin\Debug\CaixaEletronico.application
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.exe.manifest
+D:\.Faculdade\Semestre1\Programação Visual\CaixaEletronico\CaixaEletronico\obj\Debug\CaixaEletronico.application
